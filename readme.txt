@@ -21,19 +21,30 @@ Using Sendola is completely free for both website owners and visitors. Sendola i
 == Installation ==
 
 Using Wordpress dashboard
+
 1. Login to your Wordpress site
+
 2. Go to Plugins
+
 3. Select Add New
+
 4. Search for “Sendola”
+
 5. Select Install
+
 6. Select Install Now
+
 7. Select Activate Plugin
 
 
 Manual installation
+
 1. Download the Sendola plugin zip file and unzip
+
 2. Upload the entire Sendola folder to the /wp-content/plugins/ directory.
+
 3. Activate the plugin through the “Plugins” menu in Wordpress.
+
 4. You can access settings through “Settings” > “Sendola” within Wordpress.
 
 Add your plugin key to activate the plugin. You must have a Sendola.com account for the plugin to work. Log into your Sendola account and visit the Plugins page to find your plugin key. Copy and paste the key into the text box and click the “Update key” button.
