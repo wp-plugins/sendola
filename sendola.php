@@ -34,6 +34,15 @@ function sendola_init() {
 }
 add_action( 'init', 'sendola_init' );
 
+// Add settings link on plugin page
+function sendola_plugin_settings_link($links) { 
+  $settings_link = '<a href="options-general.php?page=sendola-options">Settings</a>'; 
+  array_unshift($links, $settings_link); 
+  return $links; 
+}
+$plugin = plugin_basename(__FILE__);
+add_filter("plugin_action_links_$plugin", 'sendola_plugin_settings_link' );
+
 /**
  * Add sendola button to visual editor
  */
