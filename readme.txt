@@ -21,7 +21,6 @@ Using Sendola is completely free for both website owners and visitors. Sendola i
 == Installation ==
 
 Using Wordpress dashboard:
-
 1. Login to your Wordpress site
 2. Go to Plugins
 3. Select Add New
@@ -32,11 +31,11 @@ Using Wordpress dashboard:
 
 
 Manual installation:
-
 1. Download the Sendola plugin zip file and unzip
 2. Upload the entire Sendola folder to the /wp-content/plugins/ directory.
 3. Activate the plugin through the “Plugins” menu in Wordpress.
 4. You can access settings through “Settings” > “Sendola” within Wordpress.
+
 
 Add your plugin key to activate the plugin. You must have a Sendola.com account for the plugin to work. Log into your Sendola account and visit the Plugins page to find your plugin key. Copy and paste the key into the text box and click the “Update key” button.
 
@@ -80,10 +79,11 @@ Visit www.sendola.com or email info@sendola.com if you have any more questions r
 
 
 == Screenshots ==
-1. Enter Sendola plugin key (find key in your Sendola.com account)
-2. After Sendola account has been linked, but no buttons have been created
-3. After some Sendola buttons have been created for the site on Sendola.com
-4. Highlighting the “Add Sendola to page” button in visual editor
-5. Highlighting the “Add Sendola to page” button in HTML editor
-6. Example of a Sendola button on a contact page
-7. Example of the Sendola popup on a contact page
+
+1. Enter Sendola plugin key (find key in your Sendola.com account).
+2. After Sendola account has been linked, but no buttons have been created.
+3. After some Sendola buttons have been created for the site on Sendola.com.
+4. Highlighting the "Add Sendola to page" button in visual editor.
+5. Highlighting the "Add Sendola to page" button in HTML editor.
+6. Example of a Sendola button on a contact page.
+7. Example of the Sendola popup on a contact page.
