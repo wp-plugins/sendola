@@ -1,0 +1,1 @@
+edButtons[edButtons.length] = new edButton( 'sendola-button', '[sendola]', '[sendola id=]', '', 's', -1);

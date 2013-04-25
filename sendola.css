@@ -1,0 +1,143 @@
+.sendola-settings {
+	margin-left: 50px;
+}
+.sendola-settings h3 {
+	font-size: 20px;
+}
+.sendola-settings p {
+	font-size: 14px;
+}
+
+.sendola-textinput {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #D9D9D9;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	color: #444444;
+	display: inline-block;
+	font-size: 20px;
+	padding: 15px 14px;
+	width: 100%;
+	text-align: center;
+}
+.sendola-textinput:focus {
+	border:1px solid #a8a8a7;
+}
+
+.sendola-api-block {
+	width: 420px;
+}
+
+.sendola-messages {
+	padding: 15px 0;
+	margin: 5px 0;
+	text-align: center;
+	font-size: 20px;
+	width: 100%;
+	color: #000000;
+}
+
+a.sendola-button, input.sendola-button {
+	background-color:#9bad50;
+	background-image:none;
+	border:none;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	color:#ffffff;
+	display:inline-block;
+	font-family:lato;
+	font-size:16px;
+	padding: 13px 17px;
+	text-decoration:none;
+	text-shadow: 1px 1px 1px #5c5c5c;
+	filter: dropshadow(color=#5c5c5c, offx=1, offy=1);
+	-webkit-box-shadow: 0px 0px 1px 0px rgba(1, 1, 1, 0.5);
+	box-shadow: 0px 0px 1px 0px rgba(1, 1, 1, 0.5);
+	transition: background-color 0.2s ease 0s;
+	-moz-transition: background-color 0.2s ease 0s;
+	-webkit-transition: background-color 0.2s ease 0s;
+	-o-transition: background-color 0.2s ease 0s;
+	width:auto;
+}   
+a.sendola-button:hover, input.sendola-button:hover {
+	background-color:#859540;
+	cursor:pointer;
+	text-decoration:none;
+	color:#ffffff;
+}
+a.sendola-button:active, input.sendola-button:active {
+	position:relative;
+	top:1px;
+}
+.sendola-button.sendola-button-login {
+	background-color: #dddbd6;
+	color: #292929;
+	text-shadow: 1px 1px 1px #fff;
+	filter: dropshadow(color=#fff, offx=1, offy=1);
+	-webkit-box-shadow: 0px 0px 1px 0px rgba(1, 1, 1, 0.5);
+			box-shadow: 0px 0px 1px 0px rgba(1, 1, 1, 0.5);
+}
+.sendola-button.sendola-button-login:hover {
+	background-color: #cac7c0;
+	text-decoration: none;
+	color: #292929;
+}
+.sendola-button.sendola-button-create {
+	margin-left: 15px;
+}
+
+.sendola-button.sendola-button-update {
+	margin: 5px auto;
+	display: block;
+}
+
+.sendola-buttons-block {
+	width: 800px;
+	border-top: 1px solid #d9d9d9;
+	font-size:14px;
+	margin-top: 50px;
+}
+.sendola-buttons-block h3 {
+	color: #5B5A58;
+	font-weight: 300;
+	font-size: 45px;
+	margin-top: 70px;
+	float: left;
+}
+
+.sendola-buttons-block .sendola-button {
+	margin-top: 70px;
+	float: right;
+}
+
+.sendola-buttons-block .sendola-buttons-logo {
+	height: 50px;
+	width: 50px;
+}
+.sendola-buttons-block table {
+	text-align: center;
+	max-width: 100%;
+	background-color: transparent;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.sendola-buttons-block table td, .sendola-buttons-block table th {
+	padding: 10px;
+	vertical-align: middle;
+	border-bottom: 1px solid #d9d9d9;
+	font-size: 14px !important;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: " "; /* 1 */
+	display: table; /* 2 */
+}
+
+.clearfix:after {
+	clear: both;
+}
