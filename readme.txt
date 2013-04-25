@@ -4,7 +4,7 @@ Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
 
-Free plugin tool to send contact details & map to website visitors’ mobile cell phone. Makes it easier for visitors to contact and find you when on the move. From Sendola.com.
+Free plugin to send contact details & map to website visitors’ mobile cell phone. Make it easy for visitors to contact and find you when on the move.
 
 == Description ==
 Add the unique Sendola button to your Wordpress site, and let your website visitors send your contact details to their phones.
@@ -20,7 +20,7 @@ Using Sendola is completely free for both website owners and visitors. Sendola i
 
 == Installation ==
 
-Using Wordpress dashboard
+Using Wordpress dashboard:
 
 1. Login to your Wordpress site
 2. Go to Plugins
@@ -31,7 +31,7 @@ Using Wordpress dashboard
 7. Select Activate Plugin
 
 
-Manual installation
+Manual installation:
 
 1. Download the Sendola plugin zip file and unzip
 2. Upload the entire Sendola folder to the /wp-content/plugins/ directory.
