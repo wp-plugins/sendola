@@ -17,7 +17,6 @@ The plugin connects with your Sendola account (from www.sendola.com), and lets y
 
 Using Sendola is completely free for both website owners and visitors. Sendola is a great  plugin for contact us forms, about us, or location pages.
 
-
 == Installation ==
 
 Using Wordpress dashboard:
@@ -49,7 +48,6 @@ To use the Sendola button on your Wordpress site, you can copy and paste the Sho
 
 You can also add the button from within the page editor by clicking the Sendola icon and selecting the relevant button.
 
-
 == Frequently Asked Questions ==
 
 = How much does Sendola cost? =
@@ -78,7 +76,6 @@ We take your privacy very seriously. We will not sell your details to any third 
 
 = Any other questions? =
 Visit www.sendola.com or email info@sendola.com if you have any more questions regarding the use of the Sendola Wordpress plugin, or the service itself.
-
 
 == Screenshots ==
 
