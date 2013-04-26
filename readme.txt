@@ -34,11 +34,11 @@ Manual installation:
 
 1. Download the Sendola plugin zip file and unzip
 2. Upload the entire Sendola folder to the /wp-content/plugins/ directory.
-3. Activate the plugin through the “Plugins” menu in Wordpress.
-4. You can access settings through “Settings” > “Sendola” within Wordpress.
+3. Activate the plugin through the "Plugins" menu in Wordpress.
+4. You can access settings through "Settings" > "Sendola" within Wordpress.
 
 
-Add your plugin key to activate the plugin. You must have a Sendola.com account for the plugin to work. Log into your Sendola account and visit the Plugins page to find your plugin key. Copy and paste the key into the text box and click the “Update key” button.
+Add your plugin key to activate the plugin. You must have a Sendola.com account for the plugin to work. Log into your Sendola account and visit the Plugins page to find your plugin key. Copy and paste the key into the text box and click the "Update key" button.
 
 Any existing Sendola buttons you have set up for your domain will automatically be displayed in the Sendola plugin settings. If no buttons are displayed, log into your account at Sendola.com and set up a new button, ensuring the domain for the new button is the same as that of your Wordpress site.
 
