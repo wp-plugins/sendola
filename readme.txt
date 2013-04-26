@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Free plugin to send contact details & map to website visitors’ mobile cell phone. Make it easy for visitors to contact and find you.
+Free plugin to send contact details & map to website visitors' mobile cell phone. Make it easy for visitors to contact and find you.
 
 == Description ==
 
