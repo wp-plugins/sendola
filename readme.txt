@@ -1,9 +1,11 @@
 === Sendola - contact form widget - send to phone ===
 Contributors: Sendola
-Tags: sendola,sendola.com,contact us,contact page,send to phone,map,directions,google maps,opening times,phone number,click to call,contact form,address book
+Tags: sendola,sendola.com,contact us,contact page,send to phone,map,directions,google maps,opening times,phone number,click to call,contact form
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Free plugin to send contact details & map to website visitors’ mobile cell phone. Make it easy for visitors to contact and find you.
 
