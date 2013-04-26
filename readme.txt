@@ -1,4 +1,5 @@
 === Sendola - contact form widget - send to phone ===
+Contributors: Sendola
 Tags: sendola,sendola.com,contact us,contact page,send to phone,map,directions,google maps,opening times,phone number,click to call,contact form,address book
 Requires at least: 3.0
 Tested up to: 3.5
@@ -26,7 +27,7 @@ Using Wordpress dashboard:
 1. Login to your Wordpress site
 2. Go to Plugins
 3. Select Add New
-4. Search for “Sendola”
+4. Search for "Sendola"
 5. Select Install
 6. Select Install Now
 7. Select Activate Plugin
