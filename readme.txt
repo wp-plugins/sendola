@@ -1,6 +1,6 @@
 === Sendola - contact form widget - send to phone ===
 Contributors: Sendola
-Tags: sendola,sendola.com,contact us,contact page,send to phone,map,directions,google maps,opening times,phone number,click to call,contact form
+Tags: sendola,sendola.com,contact us,contact page,send to phone,map,directions,google maps,opening times,phone number,click to call,contact form,address book
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
@@ -82,7 +82,9 @@ Visit www.sendola.com or email info@sendola.com if you have any more questions r
 == Screenshots ==
 
 1. Enter Sendola plugin key (find key in your Sendola.com account)
+
 2. After Sendola account has been linked, but no buttons have been created
+
 3. After some Sendola buttons have been created for the site on Sendola.com
 4. Highlighting the "Add Sendola to page" button in visual editor
 5. Highlighting the "Add Sendola to page" button in HTML editor
