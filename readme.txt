@@ -6,6 +6,7 @@ Stable tag: 1.0
 
 Free plugin to send contact details & map to website visitors’ mobile cell phone. Make it easy for visitors to contact and find you.
 
+
 == Description ==
 Add the unique Sendola button to your Wordpress site, and let your website visitors send your contact details to their phones.
 
@@ -16,6 +17,7 @@ Details sent can include phone number, map, address, opening times, payment deta
 The plugin connects with your Sendola account (from www.sendola.com), and lets you add a Sendola button to a page or post very quickly. You can also use shortcodes to tell the page which button you want to display.
 
 Using Sendola is completely free for both website owners and visitors. Sendola is a great  plugin for contact us forms, about us, or location pages.
+
 
 == Installation ==
 
@@ -48,6 +50,7 @@ To use the Sendola button on your Wordpress site, you can copy and paste the Sho
 
 You can also add the button from within the page editor by clicking the Sendola icon and selecting the relevant button.
 
+
 == Frequently Asked Questions ==
 
 = How much does Sendola cost? =
@@ -76,6 +79,7 @@ We take your privacy very seriously. We will not sell your details to any third 
 
 = Any other questions? =
 Visit www.sendola.com or email info@sendola.com if you have any more questions regarding the use of the Sendola Wordpress plugin, or the service itself.
+
 
 == Screenshots ==
 
