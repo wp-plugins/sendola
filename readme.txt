@@ -11,7 +11,7 @@ Free plugin to send contact details & map to website visitors’ mobile cell pho
 
 == Description ==
 
-Add the unique Sendola button to your Wordpress site, and let your website visitors send your contact details to their phones
+Add the unique Sendola button to your Wordpress site, and let your website visitors send your contact details to their phones.
 
 Clicking the Sendola button on your website will open a small form allowing your users to send your contact details to their phones. This means they will find it easier to contact and visit you or your business. This in turn could help you get more business.
 
